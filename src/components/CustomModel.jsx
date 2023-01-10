@@ -34,7 +34,7 @@ function CustomModel1() {
                         />
                         <h4>From:</h4>
                         <h4 className="invitor-name mb-5">
-                            Mrs. Shaikh Mehboob Fakruddin Sahab
+                            Mrs. Shaikh Mehboob Fakruddin(Late)
                             <br />
                             And Family
                         </h4>

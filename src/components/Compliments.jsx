@@ -7,7 +7,7 @@ function Compliments() {
             <h1>With Best Compliments From:</h1>
             <h5>Shaikh Chote Mehboob(Late),</h5>
             <h5>
-                Sayyed Ayyub(Late)<sub>Hyderabad,</sub>
+                Sayyed Ayyub<sub>Hyderabad,</sub>
             </h5>
             <h5>
                 Shaikh Shamshuddin<sub>Adoni,</sub>
