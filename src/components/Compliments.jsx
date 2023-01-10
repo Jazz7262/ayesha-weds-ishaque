@@ -28,7 +28,7 @@ function Compliments() {
             <h5>Mohammad Raza,</h5>
             <h5>Shaikh Sameer,</h5>
             <h5>Shaikh Siraj,</h5>
-            <h5>Shaikh Siraj,</h5>
+            <h5>Shaikh Fakruddin,</h5>
             <h5>Near & Dear - Relatives & Friends.</h5>
         </section>
     );
